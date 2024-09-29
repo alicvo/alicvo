@@ -1,1 +1,1 @@
-Hi, I'm Alice! I'm going into my second year at SDSU as a computer engineer. I like learning about computers and how they work. For this semester, I would like to design and create some PCBs and learn more about electrical engineering as a whole.
+Hi, I'm Alice! I'm going into my third year at SDSU as a computer engineer. I like learning about computers and how the software and hardware work together as a whole.
